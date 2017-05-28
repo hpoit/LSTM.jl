@@ -1,3 +1,5 @@
+# Reference: https://www.tensorflow.org/versions/r0.12/api_docs/python/tensor_array_ops/classes_containing_dynamically_sized_arrays_of_tensors_#TensorArray
+
 type TensorArray
 
 type TensorArrayhandle
